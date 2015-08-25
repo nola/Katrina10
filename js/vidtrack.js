@@ -115,7 +115,7 @@ function videoTimeUpdate3za(duration) {
 }
 
 function videoPlayed3za() {
-	ga('send', 'event', 'Video', 'Start', 'FONO Hancock');
+	ga('send', 'event', 'Video', 'Start', 'Pop Tech');
 }
 
 var trackQuarter4za = false;
@@ -154,5 +154,5 @@ function videoTimeUpdate4za(duration) {
 }
 
 function videoPlayed4za() {
-	ga('send', 'event', 'Video', 'Start', 'Pop Tech');
+	ga('send', 'event', 'Video', 'Start', 'FONO Hancock');
 }

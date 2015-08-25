@@ -2339,13 +2339,13 @@ a.brandclickhancmobile{
 }
 @media only screen and (min-width : 1200px) {
 	#forceVideo video {
-    width: 100vw;
+    width: 80vw;
     height: 68vh;
     position: absolute;
     top: 11.8vh;
     left: 50%;
     text-align: center;
-    margin-left: -50vw;
+    margin-left: -40vw;
 	}
 	#map{
 		position: absolute;
